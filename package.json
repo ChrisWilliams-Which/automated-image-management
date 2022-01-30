@@ -1,0 +1,23 @@
+{
+  "name": "automated-image-management",
+  "version": "1.0.0",
+  "description": "Renaming images into specific folders and patterns",
+  "main": "index.js",
+  "dependencies": {
+    "async-csv": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisWilliams-Which/automated-image-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisWilliams-Which/automated-image-management/issues"
+  },
+  "homepage": "https://github.com/ChrisWilliams-Which/automated-image-management#readme"
+}
